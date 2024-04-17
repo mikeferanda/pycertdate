@@ -1,4 +1,4 @@
-# Required: pip install cryptography
+# Required: pip install cryptography dnspython
 
 import openpyxl
 import ssl
